@@ -1,1 +1,2 @@
-[README.md](https://github.com/user-attachments/files/20004751/README.md)
+# Ominyra Site
+This is the official artist website for Ominyra, built with React and Vite.
