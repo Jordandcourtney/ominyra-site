@@ -1,1 +1,0 @@
-# ominyra-site
